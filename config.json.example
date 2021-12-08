@@ -1,0 +1,10 @@
+{
+    "app_id": "YOUR_APP_ID",
+    "api_token": "YOUR_TOKEN",
+    "start_date": "2019-01-01T00:00:00Z",
+    "user_agent": "tap-appsflyer <user_email@example.com>",
+    "organic_installs": true,
+    "postbacks_installs": true,
+    "postbacks_in_app_events":true,
+    "postbacks_additional_fields": "device_model,keyword_id,store_reinstall,deeplink_url,oaid"
+}
